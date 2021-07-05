@@ -4,7 +4,7 @@ Constants-> cannnot be changed
 
 const int a=3; 
 
-------------------------
+
 Manipulators-> Operators which helps in data display or to format how the data will get displayed
 
 Some famous manipulators->
